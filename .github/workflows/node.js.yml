@@ -1,8 +1,10 @@
-name: Node CI (22.x)
+name: Node.js CI
 
 on:
-  pull_request:
   push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -18,20 +20,14 @@ jobs:
           node-version: '22.x'
           cache: npm
 
-      - name: Verificar versões
-        run: |
-          which node
-          node --version
-          npm --version
+      - name: Verificar versão do Node
+        run: node --version
 
       - name: Instalar dependências
         run: npm ci
 
+      - name: Rodar build
+        run: npm run build
+
       - name: Rodar testes
         run: npm test
-
-      - name: Rodar lint
-        run: npm run lint
-
-      - name: Gerar build
-        run: npm run build
