@@ -14,7 +14,7 @@ import {
   IconButton,
 } from '@mui/material';
 import { Add as AddIcon, Edit as EditIcon, Delete as DeleteIcon, Search as SearchIcon } from '@mui/icons-material';
-import produtoService from '../../services/produtoService';
+import produtoService from '../services/produtoService';
 import ProdutoModal from './ProdutoModal';
 
 export default function ProdutosList() {

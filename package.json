@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "server": "servidor-json-login --watch baseSistemasVendas.json --port 3000"
+    "server": "json-server-auth --watch baseSistemaVendas.json --port 3000"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
