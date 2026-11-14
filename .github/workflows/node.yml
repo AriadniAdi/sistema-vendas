@@ -1,4 +1,4 @@
-name: Node CI
+name: Node CI (22.x)
 
 on:
   pull_request:
@@ -12,7 +12,7 @@ jobs:
       - name: Baixar código
         uses: actions/checkout@v4
 
-      - name: Configurar Node.js
+      - name: Usar Node.js 22.x
         uses: actions/setup-node@v4
         with:
           node-version: '22.x'
