@@ -1,30 +1,38 @@
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
-import { AppBar, Toolbar, Typography, Button, Container, Box } from '@mui/material';
-import ProdutosList from "./pages/ProdutosList";
+import { BrowserRouter, Route, Routes, useNavigate } from 'react-router-dom';
+import LoginPage from './features/auth/presentation/pages/LoginPage';
+import { AuthProvider } from './features/auth/presentation/context/AuthContext';
+import { useAuth } from './features/auth/presentation/hooks/useAuth';
+import ProtectedRoute from './features/auth/presentation/routes/ProtectedRoute';
+import HomePage from './features/home/presentation/HomePage';
+import ProductsPage from './features/product/presentation/pages/ProductsPage';
+import AppLayout from './features/shared/presentation/components/AppLayout';
+
+function LoginRoute() {
+  const { login } = useAuth();
+  const navigate = useNavigate();
+
+  const handleLogin = async (credentials) => {
+    await login(credentials);
+    navigate('/', { replace: true });
+  };
+
+  return <LoginPage onLogin={handleLogin} />;
+}
 
 export default function App() {
   return (
     <BrowserRouter>
-      <AppBar position="static">
-        <Toolbar>
-          <Typography variant="h6" style={{ flexGrow: 1 }}>
-            Sistema de Vendas
-          </Typography>
-          <Button color="inherit" component={Link} to="/produtos">
-            Produtos
-          </Button>
-        </Toolbar>
-      </AppBar>
-
-      <Container>
-        <Box mt={4}>
-          <Routes>
-            <Route path="/" element={<ProdutosList />} />
-
-            <Route path="/produtos" element={<ProdutosList />} />
-          </Routes>
-        </Box>
-      </Container>
+      <AuthProvider>
+        <Routes>
+          <Route path="/login" element={<LoginRoute />} />
+          <Route element={<ProtectedRoute />}>
+            <Route element={<AppLayout />}>
+              <Route index element={<HomePage />} />
+              <Route path="products" element={<ProductsPage />} />
+            </Route>
+          </Route>
+        </Routes>
+      </AuthProvider>
     </BrowserRouter>
   );
 }

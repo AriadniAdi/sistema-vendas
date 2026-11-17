@@ -1,5 +1,5 @@
 {
-  "name": "sistema-vendas",
+  "name": "sales-management-system",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "test": "vitest run",
     "preview": "vite preview",
-    "server": "json-server-auth --watch baseSistemaVendas.json --port 3000"
+    "server": "json-server-auth --watch salesSystem.json --port 3000"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",

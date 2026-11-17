@@ -24,27 +24,27 @@ describe('authService', () => {
     localStorage.clear();
   });
 
-  it('faz login, salva o token e retorna o usuário', async () => {
+  it('logs in, stores the token and returns the user', async () => {
     const user = { id: '1', username: 'admin' };
     api.post.mockResolvedValue({ data: { accessToken: 'token-123', user } });
 
-    const result = await authService.login('admin', 'senha');
+    const result = await authService.login('admin', 'password');
 
     expect(api.post).toHaveBeenCalledWith('/login', {
-      username: 'admin',
-      password: 'senha',
+      email: 'admin@sales-management.local',
+      password: 'password',
     });
     expect(localStorage.getItem('accessToken')).toBe('token-123');
     expect(JSON.parse(localStorage.getItem('user'))).toEqual(user);
     expect(result).toEqual(user);
   });
 
-  it('retorna null no getMe quando não existe usuário salvo', async () => {
+  it('returns null from getMe when no user is stored', async () => {
     await expect(authService.getMe()).resolves.toBeNull();
     expect(api.get).not.toHaveBeenCalled();
   });
 
-  it('busca os dados atuais do usuário no getMe', async () => {
+  it('fetches the current user data in getMe', async () => {
     localStorage.setItem('user', JSON.stringify({ id: '1' }));
     api.get.mockResolvedValue({ data: { id: '1', username: 'admin' } });
 
@@ -55,7 +55,7 @@ describe('authService', () => {
     expect(api.get).toHaveBeenCalledWith('/users/1');
   });
 
-  it('remove o token e o usuário no logout', async () => {
+  it('removes the token and user on logout', async () => {
     localStorage.setItem('accessToken', 'token-123');
     localStorage.setItem('user', JSON.stringify({ id: '1' }));
 

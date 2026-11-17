@@ -3,7 +3,7 @@ import api from './api';
 const authService = {
   login: async (username, password) => {
     const response = await api.post('/login', {
-      username,
+      email: username.includes('@') ? username : `${username}@sales-management.local`,
       password,
     });
 
