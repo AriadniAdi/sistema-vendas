@@ -1,0 +1,1862 @@
+{
+  "products": [
+    {
+      "id": "Dgseo32jZSk",
+      "name": "Notebook Dell XPS 15",
+      "price": 7800,
+      "stock": 8
+    },
+    {
+      "id": "bs9Bb9oAh2p",
+      "name": "Mouse Logitech MX Master 3",
+      "price": 450,
+      "stock": 20
+    },
+    {
+      "id": "7hgOEfaJU0S",
+      "name": "Teclado Mecânico HyperX Alloy",
+      "price": 600,
+      "stock": 12
+    },
+    {
+      "id": "O6mbg9AdmXS",
+      "name": "Monitor Gamer Samsung Odyssey",
+      "price": 2500,
+      "stock": 5
+    },
+    {
+      "id": "BZUM9kFdsPJ",
+      "name": "Webcam Logitech C920",
+      "price": 300,
+      "stock": 15
+    },
+    {
+      "id": "XyS4Y6eWDFu",
+      "name": "Notebook Acer Aspire Max 646",
+      "price": 5833.65,
+      "stock": 36
+    },
+    {
+      "id": "n4GC1pyHZ7k",
+      "name": "Mouse Razer Wireless 2026 178",
+      "price": 660.19,
+      "stock": 50
+    },
+    {
+      "id": "zgSEr7OEMfF",
+      "name": "Monitor Acer 4K Pro 680",
+      "price": 2484.8,
+      "stock": 9
+    },
+    {
+      "id": "8EdpElSRBmq",
+      "name": "Headset Razer Noise Cancelling Lite 398",
+      "price": 1166.98,
+      "stock": 3
+    },
+    {
+      "id": "11Mj5bGzedt",
+      "name": "SSD WD NVMe Prime 517",
+      "price": 496.05,
+      "stock": 49
+    },
+    {
+      "id": "uKfUCrkc6fS",
+      "name": "HD Externo Toshiba 4TB Advanced 140",
+      "price": 745.97,
+      "stock": 45
+    },
+    {
+      "id": "Aqbob5rjukK",
+      "name": "Webcam Intelbras 4K 256",
+      "price": 683.12,
+      "stock": 40
+    },
+    {
+      "id": "lDwjY9envvg",
+      "name": "Impressora Epson Laser Slim 862",
+      "price": 1086.63,
+      "stock": 48
+    },
+    {
+      "id": "PAvTBY0PDUJ",
+      "name": "Roteador ASUS Wi-Fi 6 Essential 891",
+      "price": 1156.79,
+      "stock": 17
+    },
+    {
+      "id": "VoQPRRPvnMD",
+      "name": "Cadeira ThunderX3 Ergonômica Plus 137",
+      "price": 2525.07,
+      "stock": 20
+    },
+    {
+      "id": "3ioDOsEYsVy",
+      "name": "Caixa de Som Edifier Portátil Prime 141",
+      "price": 1371.48,
+      "stock": 11
+    },
+    {
+      "id": "F2EjEZ8nMSd",
+      "name": "Microfone Fifine USB 792",
+      "price": 178.09,
+      "stock": 8
+    },
+    {
+      "id": "9l1LC3jxNvI",
+      "name": "Hub USB Anker 4 Portas Essential 143",
+      "price": 239.26,
+      "stock": 31
+    },
+    {
+      "id": "Gby3T94Yn42",
+      "name": "Carregador Motorola 30W 2026 180",
+      "price": 267.12,
+      "stock": 60
+    },
+    {
+      "id": "kG9cepVnrF2",
+      "name": "Tablet Lenovo 128GB Advanced 248",
+      "price": 1879.52,
+      "stock": 16
+    },
+    {
+      "id": "YJSsamnONgj",
+      "name": "Smartphone Apple 5G Slim 959",
+      "price": 5273.46,
+      "stock": 52
+    },
+    {
+      "id": "rEfQaJCeOnv",
+      "name": "Suporte Notebook ELG Ajustável Slim 582",
+      "price": 227.64,
+      "stock": 15
+    },
+    {
+      "id": "a6y5SmIgjKC",
+      "name": "Cabo Intelbras HDMI 2m Max 920",
+      "price": 110.72,
+      "stock": 41
+    },
+    {
+      "id": "e8DeJxoVORP",
+      "name": "Memória RAM Crucial 16GB DDR4 Lite 460",
+      "price": 706.01,
+      "stock": 35
+    },
+    {
+      "id": "CK9SctSzlgZ",
+      "name": "Notebook HP ThinkPad Advanced 266",
+      "price": 6012.66,
+      "stock": 46
+    },
+    {
+      "id": "X6q5V7hMNyy",
+      "name": "Mouse Logitech Wireless 2026 595",
+      "price": 57.64,
+      "stock": 41
+    },
+    {
+      "id": "qgoCV8IgCdC",
+      "name": "Teclado Dell Mecânico Essential 522",
+      "price": 366.22,
+      "stock": 36
+    },
+    {
+      "id": "IZTzxxS8nbb",
+      "name": "Monitor Samsung 4K Prime 345",
+      "price": 4514.06,
+      "stock": 49
+    },
+    {
+      "id": "9arHNpMdQZc",
+      "name": "Headset JBL Noise Cancelling Essential 972",
+      "price": 244.81,
+      "stock": 19
+    },
+    {
+      "id": "2IxPHDNJ9V1",
+      "name": "SSD WD NVMe Plus 420",
+      "price": 1068.93,
+      "stock": 11
+    },
+    {
+      "id": "DrMNyifXqVP",
+      "name": "HD Externo Toshiba 4TB Advanced 327",
+      "price": 948.04,
+      "stock": 53
+    },
+    {
+      "id": "VDc20LyrgD0",
+      "name": "Webcam Logitech Full HD Plus 319",
+      "price": 696.94,
+      "stock": 16
+    },
+    {
+      "id": "7VIq4CLftcm",
+      "name": "Impressora HP Multifuncional Plus 499",
+      "price": 2431.54,
+      "stock": 52
+    },
+    {
+      "id": "iP7znWuINOi",
+      "name": "Roteador TP-Link Wi-Fi 6 Prime 755",
+      "price": 364.82,
+      "stock": 40
+    },
+    {
+      "id": "JbMpJveuGV7",
+      "name": "Cadeira ThunderX3 Office 320",
+      "price": 1746.19,
+      "stock": 51
+    },
+    {
+      "id": "eqwBDX10Jkz",
+      "name": "Caixa de Som JBL 2.0 Slim 339",
+      "price": 138.74,
+      "stock": 45
+    },
+    {
+      "id": "wVpI0yHbLBK",
+      "name": "Microfone Razer Streaming Essential 975",
+      "price": 672.2,
+      "stock": 39
+    },
+    {
+      "id": "Nd2TZI5znaX",
+      "name": "Hub USB Anker 7 Portas 153",
+      "price": 332.6,
+      "stock": 18
+    },
+    {
+      "id": "J1DH8pewbDh",
+      "name": "Carregador Motorola USB-C Plus 997",
+      "price": 209.79,
+      "stock": 25
+    },
+    {
+      "id": "KICZiFsbpzB",
+      "name": "Tablet Xiaomi Wi-Fi Advanced 940",
+      "price": 4636.82,
+      "stock": 2
+    },
+    {
+      "id": "E2ZHKhyOFdu",
+      "name": "Smartphone Motorola 5G Advanced 307",
+      "price": 3764.75,
+      "stock": 50
+    },
+    {
+      "id": "SzORUInTcFs",
+      "name": "Suporte Notebook Baseus Ajustável Advanced 634",
+      "price": 155.16,
+      "stock": 32
+    },
+    {
+      "id": "whctjzxeEtn",
+      "name": "Cabo UGREEN USB-C 1m Lite 714",
+      "price": 173.4,
+      "stock": 23
+    },
+    {
+      "id": "I6xY40N9S3E",
+      "name": "Memória RAM Crucial 16GB DDR4 Series X 566",
+      "price": 1009.23,
+      "stock": 3
+    },
+    {
+      "id": "FKeWIg0uNVG",
+      "name": "Notebook Dell ThinkPad Series X 645",
+      "price": 12394.96,
+      "stock": 40
+    },
+    {
+      "id": "7piQMauTgBn",
+      "name": "Mouse Redragon Bluetooth Essential 461",
+      "price": 585.91,
+      "stock": 59
+    },
+    {
+      "id": "NKozuLPRIEQ",
+      "name": "Teclado Redragon RGB Plus 814",
+      "price": 422.35,
+      "stock": 25
+    },
+    {
+      "id": "eQDe8RZQdGn",
+      "name": "Monitor Samsung 4K Plus 104",
+      "price": 3387.51,
+      "stock": 53
+    },
+    {
+      "id": "4PXtYdJop9F",
+      "name": "Headset Razer Gamer Series X 308",
+      "price": 858.57,
+      "stock": 19
+    },
+    {
+      "id": "IXLTXww1oih",
+      "name": "SSD Samsung SATA Plus 373",
+      "price": 190.53,
+      "stock": 54
+    },
+    {
+      "id": "O2wWAYpWEef",
+      "name": "HD Externo WD 1TB 2026 552",
+      "price": 500.07,
+      "stock": 34
+    },
+    {
+      "id": "236N492muKP",
+      "name": "Webcam Redragon Full HD Plus 865",
+      "price": 677.17,
+      "stock": 39
+    },
+    {
+      "id": "t7EGqdf9POg",
+      "name": "Impressora Brother Laser 206",
+      "price": 693.34,
+      "stock": 35
+    },
+    {
+      "id": "M7FcpsSirFZ",
+      "name": "Roteador D-Link Dual Band Lite 335",
+      "price": 1064.66,
+      "stock": 2
+    },
+    {
+      "id": "eBoIIxldVqT",
+      "name": "Cadeira ThunderX3 Gamer Series X 561",
+      "price": 1753.83,
+      "stock": 26
+    },
+    {
+      "id": "ZNf70ZplhMa",
+      "name": "Caixa de Som JBL 2.0 Slim 834",
+      "price": 1189,
+      "stock": 14
+    },
+    {
+      "id": "8X9TSoVDAZ6",
+      "name": "Microfone Blue Condensador Max 494",
+      "price": 361.35,
+      "stock": 40
+    },
+    {
+      "id": "SuttLXF5Dmh",
+      "name": "Hub USB UGREEN 4 Portas Max 979",
+      "price": 140.12,
+      "stock": 16
+    },
+    {
+      "id": "9JA8YT8wXdD",
+      "name": "Carregador Samsung USB-C 109",
+      "price": 249.08,
+      "stock": 56
+    },
+    {
+      "id": "BsphSLqszQ5",
+      "name": "Tablet Apple 128GB Lite 292",
+      "price": 1842.85,
+      "stock": 59
+    },
+    {
+      "id": "bx8yVHbvAoT",
+      "name": "Smartphone Apple 256GB Essential 748",
+      "price": 8333.77,
+      "stock": 49
+    },
+    {
+      "id": "dRv0S6yH8iM",
+      "name": "Suporte Notebook ELG Alumínio 2026 319",
+      "price": 134.64,
+      "stock": 12
+    },
+    {
+      "id": "QX2Ow2HBiOh",
+      "name": "Cabo Intelbras DisplayPort 2m Pro 129",
+      "price": 30.02,
+      "stock": 27
+    },
+    {
+      "id": "NTLHzWLseVC",
+      "name": "Memória RAM XPG 8GB DDR4 Advanced 712",
+      "price": 1377.34,
+      "stock": 2
+    },
+    {
+      "id": "sIOX2cQTkXM",
+      "name": "Notebook Dell ThinkPad 2026 393",
+      "price": 12245.06,
+      "stock": 58
+    },
+    {
+      "id": "i5bR9B6dhLC",
+      "name": "Mouse Razer Wireless 373",
+      "price": 375.66,
+      "stock": 40
+    },
+    {
+      "id": "P5jEI62ClQQ",
+      "name": "Teclado HyperX Mecânico Slim 954",
+      "price": 145,
+      "stock": 59
+    },
+    {
+      "id": "Za8mvvQnAqF",
+      "name": "Monitor AOC Full HD Max 251",
+      "price": 1695.61,
+      "stock": 19
+    },
+    {
+      "id": "2CP8hyMXHXL",
+      "name": "Headset JBL Bluetooth Lite 732",
+      "price": 1368.16,
+      "stock": 33
+    },
+    {
+      "id": "dg661HxNN4y",
+      "name": "SSD SanDisk Portátil Pro 436",
+      "price": 894.07,
+      "stock": 23
+    },
+    {
+      "id": "Rh5MMlcd437",
+      "name": "HD Externo Seagate 4TB Lite 416",
+      "price": 460.73,
+      "stock": 59
+    },
+    {
+      "id": "tGsDHxzbZg7",
+      "name": "Webcam Microsoft Full HD Series X 405",
+      "price": 787.12,
+      "stock": 44
+    },
+    {
+      "id": "9nHOVF3LK5A",
+      "name": "Impressora HP Tanque de Tinta Pro 398",
+      "price": 2606.85,
+      "stock": 58
+    },
+    {
+      "id": "jPV2astrwzr",
+      "name": "Roteador ASUS Wi-Fi 6 Prime 347",
+      "price": 189.7,
+      "stock": 9
+    },
+    {
+      "id": "xveSmTObeSc",
+      "name": "Cadeira ThunderX3 Ergonômica Series X 471",
+      "price": 1044.81,
+      "stock": 43
+    },
+    {
+      "id": "irEb7guoUT6",
+      "name": "Caixa de Som Sony Bluetooth Max 126",
+      "price": 1200.77,
+      "stock": 0
+    },
+    {
+      "id": "HjNf5f2D6i7",
+      "name": "Microfone Blue Streaming 2026 584",
+      "price": 627.33,
+      "stock": 19
+    },
+    {
+      "id": "oFPcl6SwVQj",
+      "name": "Hub USB UGREEN USB-C Lite 903",
+      "price": 57.01,
+      "stock": 2
+    },
+    {
+      "id": "jfxvEpRVjLi",
+      "name": "Carregador Anker 65W Lite 265",
+      "price": 167.5,
+      "stock": 8
+    },
+    {
+      "id": "uOxIDLll36P",
+      "name": "Tablet Xiaomi 128GB Essential 785",
+      "price": 3576.8,
+      "stock": 6
+    },
+    {
+      "id": "zXP1sGRDuro",
+      "name": "Smartphone Apple 128GB Series X 339",
+      "price": 3658.17,
+      "stock": 22
+    },
+    {
+      "id": "fsSFoKIrNvj",
+      "name": "Suporte Notebook Geonav Dobrável Advanced 972",
+      "price": 274.58,
+      "stock": 35
+    },
+    {
+      "id": "yPtZJvCJyOt",
+      "name": "Cabo Geonav HDMI 2m Slim 197",
+      "price": 57.61,
+      "stock": 42
+    },
+    {
+      "id": "AsQ9tOhDtyz",
+      "name": "Memória RAM Crucial 32GB DDR5 Prime 668",
+      "price": 1054.25,
+      "stock": 54
+    },
+    {
+      "id": "Fhdbi5rGVNP",
+      "name": "Notebook ASUS Aspire Prime 877",
+      "price": 11072.61,
+      "stock": 4
+    },
+    {
+      "id": "3oim3OvDNbg",
+      "name": "Mouse Redragon Bluetooth 2026 163",
+      "price": 377.99,
+      "stock": 51
+    },
+    {
+      "id": "i2fdBqP1e0w",
+      "name": "Teclado Corsair Mecânico Prime 923",
+      "price": 153.48,
+      "stock": 29
+    },
+    {
+      "id": "9y1T716Iubc",
+      "name": "Monitor LG UltraWide Plus 974",
+      "price": 3801.09,
+      "stock": 2
+    },
+    {
+      "id": "edL4UfS7DTq",
+      "name": "Headset Sony Bluetooth Series X 275",
+      "price": 1353.39,
+      "stock": 52
+    },
+    {
+      "id": "YERiauAJKt7",
+      "name": "SSD Kingston NVMe Pro 491",
+      "price": 558.66,
+      "stock": 48
+    },
+    {
+      "id": "ZLw0YKWIakH",
+      "name": "HD Externo Toshiba 4TB Essential 897",
+      "price": 965.72,
+      "stock": 20
+    },
+    {
+      "id": "ajg3hqoA5Z7",
+      "name": "Webcam Redragon USB Pro 198",
+      "price": 360.23,
+      "stock": 12
+    },
+    {
+      "id": "JCkCniFjHJo",
+      "name": "Impressora HP Laser 2026 801",
+      "price": 1692.41,
+      "stock": 44
+    },
+    {
+      "id": "eGfoswTG5mu",
+      "name": "Roteador D-Link Wi-Fi 6 970",
+      "price": 809.14,
+      "stock": 17
+    },
+    {
+      "id": "IJs8W0K4bV5",
+      "name": "Cadeira ThunderX3 Office Lite 537",
+      "price": 2260.18,
+      "stock": 40
+    },
+    {
+      "id": "k2cnMKk7LL3",
+      "name": "Caixa de Som Edifier 2.0 Essential 240",
+      "price": 1505.44,
+      "stock": 24
+    },
+    {
+      "id": "2zyoW64jH2K",
+      "name": "Microfone Blue Streaming Max 865",
+      "price": 613.81,
+      "stock": 38
+    },
+    {
+      "id": "Fn3VJJwf8ox",
+      "name": "Hub USB Anker 7 Portas 2026 435",
+      "price": 401.86,
+      "stock": 16
+    },
+    {
+      "id": "MtuNBz8zrPn",
+      "name": "Carregador Samsung 30W Prime 786",
+      "price": 414.01,
+      "stock": 51
+    },
+    {
+      "id": "D20q9gv4zR3",
+      "name": "Tablet Xiaomi 128GB 914",
+      "price": 5921.83,
+      "stock": 23
+    },
+    {
+      "id": "unLEfYphpjA",
+      "name": "Smartphone Xiaomi 128GB Essential 379",
+      "price": 4924.36,
+      "stock": 29
+    },
+    {
+      "id": "cPuC9uhzOsI",
+      "name": "Suporte Notebook Multilaser Dobrável Plus 104",
+      "price": 328.86,
+      "stock": 32
+    },
+    {
+      "id": "Rt83wYdfTgf",
+      "name": "Cabo Intelbras DisplayPort 2m Series X 911",
+      "price": 40,
+      "stock": 58
+    },
+    {
+      "id": "viAA4wq8e4b",
+      "name": "Memória RAM Crucial 16GB DDR4 Max 813",
+      "price": 729.01,
+      "stock": 44
+    },
+    {
+      "id": "AIzNcyssaMV",
+      "name": "Notebook ASUS Pavilion Lite 854",
+      "price": 4269.8,
+      "stock": 13
+    },
+    {
+      "id": "xxIDgP2xgXM",
+      "name": "Mouse Multilaser Wireless Series X 907",
+      "price": 92.17,
+      "stock": 25
+    },
+    {
+      "id": "RoPEjVz5RSI",
+      "name": "Teclado HyperX Mecânico Max 796",
+      "price": 643.61,
+      "stock": 39
+    },
+    {
+      "id": "apNr0jNP8tA",
+      "name": "Monitor LG UltraWide Essential 393",
+      "price": 4501.43,
+      "stock": 43
+    },
+    {
+      "id": "zPbRVrj9w1x",
+      "name": "Headset Logitech Gamer Max 177",
+      "price": 725.81,
+      "stock": 57
+    },
+    {
+      "id": "5r7hnjIrq8K",
+      "name": "SSD Samsung Portátil Essential 526",
+      "price": 1151.58,
+      "stock": 32
+    },
+    {
+      "id": "esMOj54d3ce",
+      "name": "HD Externo Seagate 1TB Lite 589",
+      "price": 884.54,
+      "stock": 32
+    },
+    {
+      "id": "iuPGdRMQBTB",
+      "name": "Webcam Microsoft 4K Advanced 753",
+      "price": 882.48,
+      "stock": 14
+    },
+    {
+      "id": "Ebd0Z3kgFmm",
+      "name": "Impressora Epson Tanque de Tinta Pro 765",
+      "price": 787.72,
+      "stock": 12
+    },
+    {
+      "id": "1ta9O5Bjm4i",
+      "name": "Roteador Intelbras Mesh 2026 737",
+      "price": 483.37,
+      "stock": 8
+    },
+    {
+      "id": "g2qPSxXUldH",
+      "name": "Cadeira Flexform Ergonômica Lite 143",
+      "price": 2543.33,
+      "stock": 33
+    },
+    {
+      "id": "yrnqM6Wth9f",
+      "name": "Caixa de Som Edifier 2.0 Series X 365",
+      "price": 743.62,
+      "stock": 53
+    },
+    {
+      "id": "4dgu1AI8InV",
+      "name": "Microfone HyperX Condensador Prime 742",
+      "price": 500.4,
+      "stock": 45
+    },
+    {
+      "id": "nJsA4LANZkT",
+      "name": "Hub USB UGREEN USB-C Pro 720",
+      "price": 81.13,
+      "stock": 35
+    },
+    {
+      "id": "0K02x0Ck0r0",
+      "name": "Carregador Anker USB-C 596",
+      "price": 202.94,
+      "stock": 35
+    },
+    {
+      "id": "Ky1UeGqdDtn",
+      "name": "Tablet Samsung 128GB Prime 381",
+      "price": 1452.42,
+      "stock": 49
+    },
+    {
+      "id": "dYwd3tpyAVY",
+      "name": "Smartphone Apple 256GB Advanced 162",
+      "price": 9558.01,
+      "stock": 25
+    },
+    {
+      "id": "UK66U24koH9",
+      "name": "Suporte Notebook Geonav Ajustável Slim 174",
+      "price": 151.46,
+      "stock": 8
+    },
+    {
+      "id": "Z4N1UMZo5Av",
+      "name": "Cabo UGREEN DisplayPort 2m Plus 644",
+      "price": 89.93,
+      "stock": 48
+    },
+    {
+      "id": "OyYnOsjwuju",
+      "name": "Memória RAM Crucial 16GB DDR4 Lite 782",
+      "price": 1146.65,
+      "stock": 41
+    },
+    {
+      "id": "Mzf2MkQ7z2H",
+      "name": "Notebook Acer Aspire Advanced 320",
+      "price": 2670.45,
+      "stock": 3
+    },
+    {
+      "id": "P9uvApIQPug",
+      "name": "Mouse Microsoft Ergonômico Essential 321",
+      "price": 699.81,
+      "stock": 52
+    },
+    {
+      "id": "spjFJeaUv1Q",
+      "name": "Teclado Redragon RGB 2026 828",
+      "price": 934.55,
+      "stock": 24
+    },
+    {
+      "id": "NtNhlIktF21",
+      "name": "Monitor AOC UltraWide Series X 203",
+      "price": 918.61,
+      "stock": 50
+    },
+    {
+      "id": "j6u1fw6et98",
+      "name": "Headset Sony Noise Cancelling Pro 258",
+      "price": 1307.24,
+      "stock": 46
+    },
+    {
+      "id": "5C5tmzhSN3a",
+      "name": "SSD WD NVMe Prime 407",
+      "price": 1167.54,
+      "stock": 42
+    },
+    {
+      "id": "cVRZcWGs2Cp",
+      "name": "HD Externo WD 1TB Slim 231",
+      "price": 949.36,
+      "stock": 47
+    },
+    {
+      "id": "vKrztSw0LGO",
+      "name": "Webcam Redragon Full HD Slim 733",
+      "price": 331.49,
+      "stock": 16
+    },
+    {
+      "id": "wqS7PMyuCgk",
+      "name": "Impressora Brother Multifuncional 659",
+      "price": 1081.2,
+      "stock": 2
+    },
+    {
+      "id": "OdTrjJW8vqd",
+      "name": "Roteador TP-Link Wi-Fi 6 Advanced 545",
+      "price": 314.79,
+      "stock": 45
+    },
+    {
+      "id": "dnfKnQbQkgD",
+      "name": "Cadeira Flexform Ergonômica Slim 496",
+      "price": 1227.73,
+      "stock": 16
+    },
+    {
+      "id": "tXYN0N4RuLn",
+      "name": "Caixa de Som Sony 2.0 Lite 618",
+      "price": 1719.96,
+      "stock": 0
+    },
+    {
+      "id": "lkvwxBkFKTk",
+      "name": "Microfone Fifine Condensador Essential 785",
+      "price": 860.69,
+      "stock": 11
+    },
+    {
+      "id": "1fhLQoK3qn6",
+      "name": "Hub USB Geonav USB-C Slim 699",
+      "price": 307.41,
+      "stock": 32
+    },
+    {
+      "id": "bCdYPbWO0nH",
+      "name": "Carregador Anker 65W Advanced 985",
+      "price": 135.32,
+      "stock": 18
+    },
+    {
+      "id": "10CMH2JDBGR",
+      "name": "Tablet Samsung Wi-Fi Max 271",
+      "price": 2487.15,
+      "stock": 43
+    },
+    {
+      "id": "7HXh6UxrDMT",
+      "name": "Smartphone Samsung 128GB Prime 120",
+      "price": 6134.87,
+      "stock": 16
+    },
+    {
+      "id": "E08axBHGIgA",
+      "name": "Suporte Notebook Geonav Dobrável Max 273",
+      "price": 165.48,
+      "stock": 42
+    },
+    {
+      "id": "Cpyt5hg0jFy",
+      "name": "Cabo UGREEN DisplayPort 2m Plus 570",
+      "price": 64.46,
+      "stock": 23
+    },
+    {
+      "id": "0HCQ4wvX5AM",
+      "name": "Memória RAM XPG 8GB DDR4 991",
+      "price": 901.97,
+      "stock": 32
+    },
+    {
+      "id": "kHehnoSN2im",
+      "name": "Notebook Dell VivoBook 838",
+      "price": 2919.36,
+      "stock": 37
+    },
+    {
+      "id": "0z6ZPnnZvya",
+      "name": "Mouse Razer Wireless 2026 231",
+      "price": 390.49,
+      "stock": 17
+    },
+    {
+      "id": "cN44pPG1lnq",
+      "name": "Teclado Corsair RGB Advanced 295",
+      "price": 730.66,
+      "stock": 2
+    },
+    {
+      "id": "TTmYLlMHoZo",
+      "name": "Monitor LG Gamer Advanced 268",
+      "price": 2694.73,
+      "stock": 29
+    },
+    {
+      "id": "Fm3YxcAlWdB",
+      "name": "Headset Razer Gamer Lite 957",
+      "price": 717.02,
+      "stock": 28
+    },
+    {
+      "id": "zvSd8lCKBCd",
+      "name": "SSD Samsung Portátil Plus 192",
+      "price": 1375.71,
+      "stock": 28
+    },
+    {
+      "id": "hYTKXThRdfW",
+      "name": "HD Externo Toshiba 1TB Plus 412",
+      "price": 498.44,
+      "stock": 3
+    },
+    {
+      "id": "lvqWDqKepM7",
+      "name": "Webcam Intelbras Full HD Series X 345",
+      "price": 480.07,
+      "stock": 37
+    },
+    {
+      "id": "qyAwKKLmf4T",
+      "name": "Impressora Canon Laser Advanced 289",
+      "price": 2571.34,
+      "stock": 4
+    },
+    {
+      "id": "AhcuEic6BOV",
+      "name": "Roteador Intelbras Wi-Fi 6 Plus 755",
+      "price": 1390.09,
+      "stock": 38
+    },
+    {
+      "id": "Xa0dRPwVjgU",
+      "name": "Cadeira DT3 Office 773",
+      "price": 1420.41,
+      "stock": 15
+    },
+    {
+      "id": "pBFPTQQClus",
+      "name": "Caixa de Som Sony 2.0 2026 439",
+      "price": 1488.69,
+      "stock": 55
+    },
+    {
+      "id": "1BkbP7t2oQY",
+      "name": "Microfone Fifine USB 645",
+      "price": 1089.8,
+      "stock": 8
+    },
+    {
+      "id": "0jhshCrdVRA",
+      "name": "Hub USB Geonav USB-C Advanced 639",
+      "price": 200.67,
+      "stock": 11
+    },
+    {
+      "id": "5QbeuB311Iy",
+      "name": "Carregador Anker 65W Max 599",
+      "price": 53.89,
+      "stock": 51
+    },
+    {
+      "id": "9BtGCUX38lG",
+      "name": "Tablet Samsung 10 Polegadas Max 896",
+      "price": 2977.95,
+      "stock": 24
+    },
+    {
+      "id": "Qj0YrQZKbwq",
+      "name": "Smartphone Motorola 128GB 494",
+      "price": 3462.19,
+      "stock": 14
+    },
+    {
+      "id": "0qIPv6KrDqS",
+      "name": "Suporte Notebook Baseus Alumínio 541",
+      "price": 127.97,
+      "stock": 44
+    },
+    {
+      "id": "n0f0AENUH7w",
+      "name": "Cabo Geonav USB-C 1m Pro 416",
+      "price": 164.84,
+      "stock": 48
+    },
+    {
+      "id": "Y5941ZIgJH7",
+      "name": "Memória RAM Crucial 8GB DDR4 Advanced 993",
+      "price": 1330.12,
+      "stock": 11
+    },
+    {
+      "id": "98sQwtXdApA",
+      "name": "Notebook Lenovo Inspiron Max 818",
+      "price": 5363.68,
+      "stock": 17
+    },
+    {
+      "id": "VH3SIYCTHQN",
+      "name": "Mouse Multilaser Wireless Max 993",
+      "price": 53.7,
+      "stock": 48
+    },
+    {
+      "id": "eQaZpT8eQwa",
+      "name": "Teclado Logitech Compacto Prime 494",
+      "price": 674.22,
+      "stock": 18
+    },
+    {
+      "id": "CsDjr3UuE7E",
+      "name": "Monitor Samsung UltraWide Essential 209",
+      "price": 669.35,
+      "stock": 4
+    },
+    {
+      "id": "hpJIGhNok3V",
+      "name": "Headset Sony Bluetooth Slim 746",
+      "price": 622.76,
+      "stock": 55
+    },
+    {
+      "id": "55qZPy56daf",
+      "name": "SSD Crucial Portátil Series X 497",
+      "price": 761.97,
+      "stock": 48
+    },
+    {
+      "id": "eUI2vzDUOVs",
+      "name": "HD Externo Seagate 4TB Lite 821",
+      "price": 949.62,
+      "stock": 37
+    },
+    {
+      "id": "p2h4kjKHUWT",
+      "name": "Webcam Logitech USB Pro 788",
+      "price": 563.36,
+      "stock": 29
+    },
+    {
+      "id": "Xqg2irPiFIZ",
+      "name": "Impressora Canon Tanque de Tinta Advanced 392",
+      "price": 790.28,
+      "stock": 14
+    },
+    {
+      "id": "7gHK7hH60km",
+      "name": "Roteador ASUS Mesh Max 357",
+      "price": 544.11,
+      "stock": 10
+    },
+    {
+      "id": "apSx7uLuJ8O",
+      "name": "Cadeira DT3 Ergonômica Pro 980",
+      "price": 920.04,
+      "stock": 25
+    },
+    {
+      "id": "8flzv7eVER1",
+      "name": "Caixa de Som Edifier Bluetooth 530",
+      "price": 1711.91,
+      "stock": 21
+    },
+    {
+      "id": "UI81K6uyfVj",
+      "name": "Microfone Razer USB 2026 940",
+      "price": 95.07,
+      "stock": 48
+    },
+    {
+      "id": "uYOr7hMwLbI",
+      "name": "Hub USB Anker 7 Portas Slim 739",
+      "price": 152.9,
+      "stock": 53
+    },
+    {
+      "id": "lbPo9AJWxgr",
+      "name": "Carregador Samsung 30W Slim 579",
+      "price": 319.71,
+      "stock": 22
+    },
+    {
+      "id": "wkarIUmLUGh",
+      "name": "Tablet Samsung 128GB Pro 510",
+      "price": 3674.53,
+      "stock": 37
+    },
+    {
+      "id": "2YbJXgyi96N",
+      "name": "Smartphone Samsung 5G 699",
+      "price": 6215.44,
+      "stock": 57
+    },
+    {
+      "id": "C4WhvcrSvhi",
+      "name": "Suporte Notebook Multilaser Ajustável Advanced 631",
+      "price": 83.95,
+      "stock": 0
+    },
+    {
+      "id": "ncEG627RZ0n",
+      "name": "Cabo Intelbras DisplayPort 2m Slim 874",
+      "price": 18.43,
+      "stock": 57
+    },
+    {
+      "id": "VRDLxz1IGjl",
+      "name": "Memória RAM Corsair 16GB DDR4 2026 879",
+      "price": 306.54,
+      "stock": 57
+    },
+    {
+      "id": "KPZvQDmNh7F",
+      "name": "Notebook ASUS ThinkPad Prime 600",
+      "price": 3806.27,
+      "stock": 29
+    },
+    {
+      "id": "2IkfCUquoKz",
+      "name": "Mouse Logitech Gamer Plus 839",
+      "price": 395.95,
+      "stock": 41
+    },
+    {
+      "id": "6usYdT3KM3B",
+      "name": "Teclado Corsair Compacto Essential 719",
+      "price": 142.51,
+      "stock": 36
+    },
+    {
+      "id": "24vEBCNqzid",
+      "name": "Monitor Samsung UltraWide 615",
+      "price": 3713.72,
+      "stock": 22
+    },
+    {
+      "id": "f5UlkTmm4kS",
+      "name": "Headset Logitech USB Pro 571",
+      "price": 1289.58,
+      "stock": 35
+    },
+    {
+      "id": "aMGe4TMKKln",
+      "name": "SSD SanDisk NVMe Slim 519",
+      "price": 1412.69,
+      "stock": 50
+    },
+    {
+      "id": "kJSaMqqvoI4",
+      "name": "HD Externo Seagate 4TB Max 207",
+      "price": 1056.64,
+      "stock": 56
+    },
+    {
+      "id": "HD6BtDN3EdM",
+      "name": "Webcam Redragon 4K Essential 384",
+      "price": 321.92,
+      "stock": 40
+    },
+    {
+      "id": "53fh84Lke7f",
+      "name": "Impressora Brother Multifuncional Advanced 280",
+      "price": 2688.19,
+      "stock": 36
+    },
+    {
+      "id": "1qCx1XZKNSQ",
+      "name": "Roteador D-Link Mesh 2026 917",
+      "price": 355.72,
+      "stock": 31
+    },
+    {
+      "id": "51CxlJGIlmc",
+      "name": "Cadeira Flexform Gamer Prime 184",
+      "price": 2054.61,
+      "stock": 58
+    },
+    {
+      "id": "KEouf797Osa",
+      "name": "Caixa de Som Logitech Portátil Max 909",
+      "price": 1446.81,
+      "stock": 31
+    },
+    {
+      "id": "WeWksPxjrfN",
+      "name": "Microfone Razer USB Plus 723",
+      "price": 181.91,
+      "stock": 5
+    },
+    {
+      "id": "Bbd0Vgya2Kf",
+      "name": "Hub USB UGREEN USB-C Max 397",
+      "price": 486.65,
+      "stock": 59
+    },
+    {
+      "id": "3NvUh85WfY4",
+      "name": "Carregador Samsung 65W Essential 467",
+      "price": 70.71,
+      "stock": 1
+    },
+    {
+      "id": "IBtH2rsjPRy",
+      "name": "Tablet Xiaomi 10 Polegadas Advanced 493",
+      "price": 2675.92,
+      "stock": 7
+    },
+    {
+      "id": "zyahllZu3aP",
+      "name": "Smartphone Apple 256GB Max 402",
+      "price": 964.9,
+      "stock": 12
+    },
+    {
+      "id": "dYgWH1OSQ0X",
+      "name": "Suporte Notebook ELG Ajustável 2026 779",
+      "price": 151.91,
+      "stock": 17
+    },
+    {
+      "id": "mrlOBeX1c55",
+      "name": "Cabo Baseus DisplayPort 2m Plus 539",
+      "price": 125.13,
+      "stock": 7
+    },
+    {
+      "id": "KVU9soubedk",
+      "name": "Memória RAM XPG 32GB DDR5 2026 560",
+      "price": 813.94,
+      "stock": 53
+    },
+    {
+      "id": "MTc0X0lD7SW",
+      "name": "Notebook ASUS ThinkPad Advanced 610",
+      "price": 10760.16,
+      "stock": 58
+    },
+    {
+      "id": "KBWAa1P64oa",
+      "name": "Mouse Multilaser Bluetooth Plus 696",
+      "price": 601.15,
+      "stock": 17
+    },
+    {
+      "id": "IhrHmOp80uQ",
+      "name": "Teclado Redragon RGB Series X 395",
+      "price": 659.77,
+      "stock": 6
+    },
+    {
+      "id": "ZDUlaiJ6iDM",
+      "name": "Monitor Samsung UltraWide 262",
+      "price": 2354.37,
+      "stock": 15
+    },
+    {
+      "id": "5O5nnT3dxB4",
+      "name": "Headset HyperX Gamer Series X 498",
+      "price": 608.02,
+      "stock": 18
+    },
+    {
+      "id": "AKmPY4Gu0RR",
+      "name": "SSD Kingston NVMe Series X 158",
+      "price": 410.72,
+      "stock": 5
+    },
+    {
+      "id": "0O2lIGcGJnB",
+      "name": "HD Externo Toshiba 4TB 2026 804",
+      "price": 840.62,
+      "stock": 60
+    },
+    {
+      "id": "a55DYsSbTRr",
+      "name": "Webcam Redragon Full HD Advanced 175",
+      "price": 558.78,
+      "stock": 46
+    },
+    {
+      "id": "JM0SElSmgZV",
+      "name": "Impressora HP Tanque de Tinta Plus 714",
+      "price": 2413.84,
+      "stock": 27
+    },
+    {
+      "id": "5XP62ex6Iw0",
+      "name": "Roteador D-Link Dual Band Pro 946",
+      "price": 1060.65,
+      "stock": 34
+    },
+    {
+      "id": "zDX0o1AqPoZ",
+      "name": "Cadeira ThunderX3 Ergonômica Advanced 704",
+      "price": 1513.71,
+      "stock": 13
+    },
+    {
+      "id": "OgugSmkHaGX",
+      "name": "Caixa de Som JBL Bluetooth Lite 479",
+      "price": 418.56,
+      "stock": 49
+    },
+    {
+      "id": "3zzlXOvPcBP",
+      "name": "Microfone Razer Streaming Max 110",
+      "price": 1059.09,
+      "stock": 39
+    },
+    {
+      "id": "EsMSzce2xDB",
+      "name": "Hub USB UGREEN 7 Portas Series X 459",
+      "price": 436.37,
+      "stock": 31
+    },
+    {
+      "id": "hnM0Xx5Lv3f",
+      "name": "Carregador Anker 30W Pro 874",
+      "price": 319.36,
+      "stock": 45
+    },
+    {
+      "id": "ODOj9xVVtwu",
+      "name": "Tablet Lenovo Wi-Fi Plus 462",
+      "price": 4368.59,
+      "stock": 11
+    },
+    {
+      "id": "zZ9ekoc4p7j",
+      "name": "Smartphone Xiaomi 256GB Essential 150",
+      "price": 1406.39,
+      "stock": 16
+    },
+    {
+      "id": "OvBWhK9eGAM",
+      "name": "Suporte Notebook Multilaser Ajustável Prime 223",
+      "price": 289.86,
+      "stock": 21
+    },
+    {
+      "id": "WzNOFfO80r1",
+      "name": "Cabo UGREEN USB-C 1m Lite 949",
+      "price": 56.33,
+      "stock": 56
+    },
+    {
+      "id": "uaGVMpVskbp",
+      "name": "Memória RAM XPG 8GB DDR4 Pro 330",
+      "price": 1122.27,
+      "stock": 12
+    },
+    {
+      "id": "wv28TybfQft",
+      "name": "Notebook HP Aspire Plus 811",
+      "price": 11312.41,
+      "stock": 28
+    },
+    {
+      "id": "uXTZIpRwpHy",
+      "name": "Mouse Multilaser Wireless Max 935",
+      "price": 351.94,
+      "stock": 56
+    },
+    {
+      "id": "v8UI2l2txrS",
+      "name": "Teclado Dell Compacto Max 959",
+      "price": 658.62,
+      "stock": 8
+    },
+    {
+      "id": "83qbO4zlNqI",
+      "name": "Monitor Acer Gamer Prime 758",
+      "price": 1651.69,
+      "stock": 30
+    },
+    {
+      "id": "xh01R5nzaZb",
+      "name": "Headset Razer Bluetooth Slim 307",
+      "price": 611.84,
+      "stock": 19
+    },
+    {
+      "id": "NcmPyE9KZmW",
+      "name": "SSD Kingston NVMe Essential 404",
+      "price": 353.24,
+      "stock": 47
+    },
+    {
+      "id": "n0fzJcMtmf2",
+      "name": "HD Externo Seagate 4TB Prime 924",
+      "price": 420.1,
+      "stock": 47
+    },
+    {
+      "id": "ZsW8TP0Ud4S",
+      "name": "Webcam Microsoft Full HD Lite 649",
+      "price": 185.54,
+      "stock": 5
+    },
+    {
+      "id": "nhwU9Oo4zRz",
+      "name": "Impressora Epson Laser Lite 966",
+      "price": 507.57,
+      "stock": 37
+    },
+    {
+      "id": "zZo3TGlyJD8",
+      "name": "Roteador D-Link Wi-Fi 6 948",
+      "price": 193.65,
+      "stock": 3
+    },
+    {
+      "id": "1wPVydGpewR",
+      "name": "Cadeira Flexform Ergonômica Pro 307",
+      "price": 727.02,
+      "stock": 30
+    },
+    {
+      "id": "uRuud3mL0IT",
+      "name": "Caixa de Som Edifier Bluetooth 2026 751",
+      "price": 1205.04,
+      "stock": 52
+    },
+    {
+      "id": "Qwj4LmxAF01",
+      "name": "Microfone Razer Condensador Slim 676",
+      "price": 804.25,
+      "stock": 30
+    },
+    {
+      "id": "7Pz8hejVPcC",
+      "name": "Hub USB Geonav USB-C Essential 687",
+      "price": 237.54,
+      "stock": 46
+    },
+    {
+      "id": "Ui7Zr1bPzoS",
+      "name": "Carregador Motorola 30W Pro 936",
+      "price": 136.17,
+      "stock": 14
+    },
+    {
+      "id": "BS2I1ljzCE2",
+      "name": "Tablet Lenovo Wi-Fi Lite 275",
+      "price": 3021.02,
+      "stock": 10
+    },
+    {
+      "id": "sQvArg1zYxc",
+      "name": "Smartphone Apple 5G 594",
+      "price": 3358.57,
+      "stock": 4
+    },
+    {
+      "id": "vvGboeyHTyB",
+      "name": "Suporte Notebook ELG Ajustável Plus 796",
+      "price": 224.32,
+      "stock": 19
+    },
+    {
+      "id": "fyGxY5JzlEx",
+      "name": "Cabo Intelbras DisplayPort 2m Pro 258",
+      "price": 126.48,
+      "stock": 6
+    },
+    {
+      "id": "totmF2cXKw0",
+      "name": "Memória RAM XPG 32GB DDR5 Max 701",
+      "price": 735.83,
+      "stock": 49
+    },
+    {
+      "id": "puXDwEHWd2A",
+      "name": "Notebook HP Inspiron Series X 546",
+      "price": 12248.72,
+      "stock": 19
+    },
+    {
+      "id": "jKBJnx6ZQK2",
+      "name": "Mouse Microsoft Ergonômico Essential 914",
+      "price": 148.48,
+      "stock": 9
+    },
+    {
+      "id": "7cZGXBN5WWA",
+      "name": "Teclado Redragon Mecânico Prime 282",
+      "price": 196.3,
+      "stock": 58
+    },
+    {
+      "id": "cwbpxWZQ5Qy",
+      "name": "Monitor AOC Gamer Plus 866",
+      "price": 3734.69,
+      "stock": 57
+    },
+    {
+      "id": "6CeVsAhwTt2",
+      "name": "Headset JBL Gamer Prime 550",
+      "price": 1217.59,
+      "stock": 4
+    },
+    {
+      "id": "Wa2OMNaetCs",
+      "name": "SSD SanDisk NVMe 527",
+      "price": 989.25,
+      "stock": 6
+    },
+    {
+      "id": "E0TVA9cLuKu",
+      "name": "HD Externo Seagate 1TB 440",
+      "price": 866.36,
+      "stock": 5
+    },
+    {
+      "id": "oamAN4wehhm",
+      "name": "Webcam Logitech 4K Series X 806",
+      "price": 484.37,
+      "stock": 41
+    },
+    {
+      "id": "iLwm2nVUT0U",
+      "name": "Impressora HP Laser Essential 808",
+      "price": 1786.37,
+      "stock": 52
+    },
+    {
+      "id": "X4rSTuhrWqj",
+      "name": "Roteador TP-Link Dual Band Essential 116",
+      "price": 139.19,
+      "stock": 13
+    },
+    {
+      "id": "bBs1v31ltoV",
+      "name": "Cadeira Flexform Ergonômica Advanced 626",
+      "price": 1705.23,
+      "stock": 8
+    },
+    {
+      "id": "X9k9iRslCPk",
+      "name": "Caixa de Som Edifier Bluetooth Prime 682",
+      "price": 725.89,
+      "stock": 15
+    },
+    {
+      "id": "CWSYsituufl",
+      "name": "Microfone Razer Condensador 2026 482",
+      "price": 987.75,
+      "stock": 54
+    },
+    {
+      "id": "H6ezdiOxsiH",
+      "name": "Hub USB Geonav USB-C Lite 342",
+      "price": 454.13,
+      "stock": 9
+    },
+    {
+      "id": "GZhmOaFEk7U",
+      "name": "Carregador Samsung 65W Pro 493",
+      "price": 303.18,
+      "stock": 37
+    },
+    {
+      "id": "tqpEZ1Qlx3y",
+      "name": "Tablet Xiaomi 10 Polegadas Lite 458",
+      "price": 5255.2,
+      "stock": 14
+    },
+    {
+      "id": "CmlQGjcUHSx",
+      "name": "Smartphone Xiaomi 128GB Plus 814",
+      "price": 2214.5,
+      "stock": 24
+    },
+    {
+      "id": "wun8iHftSeX",
+      "name": "Suporte Notebook Multilaser Alumínio Prime 612",
+      "price": 286.06,
+      "stock": 47
+    },
+    {
+      "id": "Jv9ogL8mWO7",
+      "name": "Cabo Intelbras DisplayPort 2m Advanced 749",
+      "price": 166.81,
+      "stock": 2
+    },
+    {
+      "id": "NQFnw8a5H18",
+      "name": "Memória RAM Crucial 32GB DDR5 Series X 671",
+      "price": 749.54,
+      "stock": 54
+    },
+    {
+      "id": "nuEjunYjBko",
+      "name": "Notebook Lenovo ThinkPad Prime 173",
+      "price": 2582.71,
+      "stock": 2
+    },
+    {
+      "id": "XzSTYHf7HdN",
+      "name": "Mouse Multilaser Bluetooth Max 995",
+      "price": 467.18,
+      "stock": 24
+    },
+    {
+      "id": "ETMWcifQx1X",
+      "name": "Teclado HyperX Sem Fio Max 419",
+      "price": 114.73,
+      "stock": 13
+    },
+    {
+      "id": "UXefIq1rVIv",
+      "name": "Monitor Acer UltraWide Prime 221",
+      "price": 1404.66,
+      "stock": 42
+    },
+    {
+      "id": "dgRuHuV5UFy",
+      "name": "Headset Logitech USB Advanced 810",
+      "price": 1389.29,
+      "stock": 19
+    },
+    {
+      "id": "KdRm9B8TDgI",
+      "name": "SSD WD SATA Prime 718",
+      "price": 280.56,
+      "stock": 5
+    },
+    {
+      "id": "8WEygORrXGO",
+      "name": "HD Externo WD 1TB Slim 985",
+      "price": 933.42,
+      "stock": 11
+    },
+    {
+      "id": "qE5tsGMZPom",
+      "name": "Webcam Microsoft Full HD Series X 202",
+      "price": 287.84,
+      "stock": 41
+    },
+    {
+      "id": "N56RFvA4dZA",
+      "name": "Impressora Epson Tanque de Tinta Prime 172",
+      "price": 1363.06,
+      "stock": 44
+    },
+    {
+      "id": "LrTvZHYXSwh",
+      "name": "Roteador Intelbras Wi-Fi 6 Pro 262",
+      "price": 642.76,
+      "stock": 3
+    },
+    {
+      "id": "OijEyF7yOAJ",
+      "name": "Cadeira ThunderX3 Ergonômica Series X 637",
+      "price": 2915.11,
+      "stock": 26
+    },
+    {
+      "id": "EL9MnOtSzuF",
+      "name": "Caixa de Som Sony Bluetooth Advanced 412",
+      "price": 311.7,
+      "stock": 43
+    },
+    {
+      "id": "fpgo6tgBbqw",
+      "name": "Microfone Fifine Condensador Plus 894",
+      "price": 626.09,
+      "stock": 16
+    },
+    {
+      "id": "Sm1eIQCzD28",
+      "name": "Hub USB Baseus 4 Portas Series X 433",
+      "price": 124.01,
+      "stock": 17
+    },
+    {
+      "id": "qDctXvBe0o7",
+      "name": "Carregador Anker 30W Slim 857",
+      "price": 88.85,
+      "stock": 21
+    },
+    {
+      "id": "o6DiM40SIao",
+      "name": "Tablet Samsung 10 Polegadas Essential 221",
+      "price": 3403.13,
+      "stock": 18
+    },
+    {
+      "id": "AwdTO4Ij0S9",
+      "name": "Smartphone Xiaomi 256GB Essential 457",
+      "price": 10093.93,
+      "stock": 51
+    },
+    {
+      "id": "0QN6Klwc69y",
+      "name": "Suporte Notebook Geonav Dobrável Essential 467",
+      "price": 172.19,
+      "stock": 58
+    },
+    {
+      "id": "W1vjQvnKe4S",
+      "name": "Cabo Intelbras USB-C 1m 2026 691",
+      "price": 33.72,
+      "stock": 6
+    },
+    {
+      "id": "uqlt1eoqjGy",
+      "name": "Memória RAM Crucial 8GB DDR4 104",
+      "price": 794.99,
+      "stock": 22
+    },
+    {
+      "id": "jOoIbiEWdQP",
+      "name": "Notebook Lenovo Pavilion 846",
+      "price": 2732.19,
+      "stock": 4
+    },
+    {
+      "id": "glinGxdJe5T",
+      "name": "Mouse Redragon Gamer Max 584",
+      "price": 722.21,
+      "stock": 7
+    },
+    {
+      "id": "pqVtidmao5H",
+      "name": "Teclado Dell RGB Essential 523",
+      "price": 775.6,
+      "stock": 0
+    },
+    {
+      "id": "rW0etIh7xsE",
+      "name": "Monitor LG UltraWide 693",
+      "price": 2219.47,
+      "stock": 1
+    },
+    {
+      "id": "q73iPD0Y63O",
+      "name": "Headset Logitech Bluetooth Lite 683",
+      "price": 1153.01,
+      "stock": 1
+    },
+    {
+      "id": "PUzFihyJBQS",
+      "name": "SSD Kingston Portátil Plus 186",
+      "price": 217.3,
+      "stock": 3
+    },
+    {
+      "id": "p7KNsc5i5cS",
+      "name": "HD Externo Toshiba 4TB 2026 665",
+      "price": 530.8,
+      "stock": 30
+    },
+    {
+      "id": "M6ifwI5Igzt",
+      "name": "Webcam Microsoft 4K Pro 174",
+      "price": 739.54,
+      "stock": 55
+    },
+    {
+      "id": "sh9PKUZqsZA",
+      "name": "Impressora Epson Multifuncional Prime 462",
+      "price": 2200.84,
+      "stock": 15
+    },
+    {
+      "id": "h2Iu3BrbJgR",
+      "name": "Roteador D-Link Dual Band Advanced 281",
+      "price": 406.17,
+      "stock": 60
+    },
+    {
+      "id": "RVEHinB0cZZ",
+      "name": "Cadeira ThunderX3 Ergonômica 217",
+      "price": 2262.84,
+      "stock": 55
+    },
+    {
+      "id": "NtjnXo2fsI1",
+      "name": "Caixa de Som Edifier Bluetooth Essential 335",
+      "price": 300.91,
+      "stock": 13
+    },
+    {
+      "id": "aSwTrTDFTHg",
+      "name": "Microfone Fifine USB 2026 676",
+      "price": 137.17,
+      "stock": 39
+    },
+    {
+      "id": "bxmtSZnb0PS",
+      "name": "Hub USB Baseus 7 Portas 449",
+      "price": 228.92,
+      "stock": 42
+    },
+    {
+      "id": "8r3VCYbsbgX",
+      "name": "Carregador Anker 65W Slim 395",
+      "price": 153.45,
+      "stock": 35
+    }
+  ],
+  "customers": [
+    {
+      "id": "9OlUcr6I9Qd",
+      "name": "João Silva",
+      "cpf": "111.222.333-44"
+    },
+    {
+      "id": "8a0HHXRzCbE",
+      "name": "Maria Souza",
+      "cpf": "555.666.777-88"
+    },
+    {
+      "id": "5hOKdLp0mnj",
+      "name": "Pedro Alves",
+      "cpf": "999.888.777-66"
+    }
+  ],
+  "sales": [
+    {
+      "id": "YGQ8aFF6CSA",
+      "customerId": "9OlUcr6I9Qd",
+      "products": [
+        {
+          "productId": "Dgseo32jZSk",
+          "quantidade": 1
+        },
+        {
+          "productId": "bs9Bb9oAh2p",
+          "quantidade": 2
+        }
+      ],
+      "date": "2024-06-25T10:00:00.000Z"
+    },
+    {
+      "id": "THkIDLwWISl",
+      "customerId": "8a0HHXRzCbE",
+      "products": [
+        {
+          "productId": "7hgOEfaJU0S",
+          "quantidade": 1
+        }
+      ],
+      "date": "2024-06-26T14:30:00.000Z"
+    },
+    {
+      "id": "qWAIHmsoJiQ",
+      "customerId": "9OlUcr6I9Qd",
+      "products": [
+        {
+          "productId": "BZUM9kFdsPJ",
+          "quantidade": 1
+        }
+      ],
+      "date": "2024-06-27T11:45:00.000Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "AolIvMyg_j0",
+      "email": "admin@sales-management.local",
+      "password": "$2b$10$qu5X.d/1AQP9h7SRIHa4i.Zj7xC0GoV2CLlncpdXivuWi8R53dTBS"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

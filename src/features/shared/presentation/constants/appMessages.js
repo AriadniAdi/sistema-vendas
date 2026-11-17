@@ -1,0 +1,15 @@
+export const appMessages = {
+  appName: 'Sales Management System',
+  home: 'Home',
+  products: 'Products',
+  logout: 'Logout',
+  welcome: 'Welcome to the Sales Management System',
+  userGreeting: (email) => `Hello, ${email || 'user'}! Choose an area to continue.`,
+  customers: 'Customers',
+  customersDescription: 'Area prepared for customer registration and management.',
+  sales: 'Sales',
+  salesDescription: 'Area prepared for recording and reviewing sales.',
+  productsDescription: 'Manage the catalog and monitor available stock.',
+  open: 'Open',
+  comingSoon: 'Coming soon',
+};

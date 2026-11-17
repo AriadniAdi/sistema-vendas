@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { authMessages } from '../constants/authMessages';
 
 export function useLoginViewModel(onLogin) {
   const [username, setUsername] = useState('');
@@ -11,12 +12,12 @@ export function useLoginViewModel(onLogin) {
     setError('');
 
     if (!username || !password) {
-      setError('Informe o usuário e a senha para continuar.');
+      setError(authMessages.credentialsRequired);
       return;
     }
 
     if (!onLogin) {
-      setError('A função de login ainda não foi configurada.');
+      setError(authMessages.loginNotConfigured);
       return;
     }
 
@@ -24,7 +25,7 @@ export function useLoginViewModel(onLogin) {
       setLoading(true);
       await onLogin({ username, password });
     } catch (loginError) {
-      setError(loginError.message || 'Não foi possível realizar o login.');
+      setError(loginError.message || authMessages.loginError);
     } finally {
       setLoading(false);
     }

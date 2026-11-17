@@ -1,51 +1,22 @@
-import { BrowserRouter, Link, Route, Routes, useNavigate } from 'react-router-dom';
-import { AppBar, Box, Button, Container, Toolbar, Typography } from '@mui/material';
-import ProdutosPage from './features/product/presentation/pages/ProdutosPage';
+import { BrowserRouter, Route, Routes, useNavigate } from 'react-router-dom';
 import LoginPage from './features/auth/presentation/pages/LoginPage';
-import ProtectedRoute from './features/auth/presentation/routes/ProtectedRoute';
 import { AuthProvider } from './features/auth/presentation/context/AuthContext';
 import { useAuth } from './features/auth/presentation/hooks/useAuth';
+import ProtectedRoute from './features/auth/presentation/routes/ProtectedRoute';
+import HomePage from './features/home/presentation/HomePage';
+import ProductsPage from './features/product/presentation/pages/ProductsPage';
+import AppLayout from './features/shared/presentation/components/AppLayout';
 
 function LoginRoute() {
   const { login } = useAuth();
-  return <LoginPage onLogin={login} />;
-}
-
-function AppLayout() {
-  const { logout } = useAuth();
   const navigate = useNavigate();
 
-  const handleLogout = async () => {
-    await logout();
-    navigate('/login', { replace: true });
+  const handleLogin = async (credentials) => {
+    await login(credentials);
+    navigate('/', { replace: true });
   };
 
-  return (
-    <>
-      <AppBar position="static">
-        <Toolbar>
-          <Typography variant="h6" sx={{ flexGrow: 1 }}>
-            Sistema de Vendas
-          </Typography>
-          <Button color="inherit" component={Link} to="/produtos">
-            Produtos
-          </Button>
-          <Button color="inherit" onClick={handleLogout}>
-            Sair
-          </Button>
-        </Toolbar>
-      </AppBar>
-      <Container>
-        <Box mt={4}>
-          <OutletContent />
-        </Box>
-      </Container>
-    </>
-  );
-}
-
-function OutletContent() {
-  return <ProdutosPage />;
+  return <LoginPage onLogin={handleLogin} />;
 }
 
 export default function App() {
@@ -55,8 +26,10 @@ export default function App() {
         <Routes>
           <Route path="/login" element={<LoginRoute />} />
           <Route element={<ProtectedRoute />}>
-            <Route path="/" element={<AppLayout />} />
-            <Route path="/produtos" element={<AppLayout />} />
+            <Route element={<AppLayout />}>
+              <Route index element={<HomePage />} />
+              <Route path="products" element={<ProductsPage />} />
+            </Route>
           </Route>
         </Routes>
       </AuthProvider>
