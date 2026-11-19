@@ -22,6 +22,8 @@ export function useProductsViewModel() {
   };
 
   useEffect(() => {
+    // The initial load synchronizes the state with the API.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     loadProducts();
   }, []);
 
