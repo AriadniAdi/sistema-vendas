@@ -29,7 +29,10 @@ export default function AppLayout() {
           <Button color="inherit" component={Link} to="/products">
             {appMessages.products}
           </Button>
-          <Button color="inherit" onClick={() => setLogoutDialogOpen(true)}>
+          <Button color="inherit" component={Link} to="/customers">
+            {appMessages.customers}
+          </Button>
+          <Button color="inherit" onClick={handleLogout}>
             {appMessages.logout}
           </Button>
         </Toolbar>

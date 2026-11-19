@@ -5,6 +5,7 @@ import { useAuth } from './features/auth/presentation/hooks/useAuth';
 import ProtectedRoute from './features/auth/presentation/routes/ProtectedRoute';
 import HomePage from './features/home/presentation/HomePage';
 import ProductsPage from './features/product/presentation/pages/ProductsPage';
+import CustomersPage from './features/customer/presentation/pages/CustomersPage';
 import AppLayout from './features/shared/presentation/components/AppLayout';
 
 function LoginRoute() {
@@ -29,6 +30,7 @@ export default function App() {
             <Route element={<AppLayout />}>
               <Route index element={<HomePage />} />
               <Route path="products" element={<ProductsPage />} />
+              <Route path="customers" element={<CustomersPage />} />
             </Route>
           </Route>
         </Routes>
