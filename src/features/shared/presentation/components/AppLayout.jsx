@@ -1,14 +1,18 @@
+import { useState } from 'react';
 import { AppBar, Box, Button, Container, Toolbar, Typography } from '@mui/material';
 import { Link, Outlet, useNavigate } from 'react-router-dom';
 import { useAuth } from '../../../auth/presentation/hooks/useAuth';
 import { appMessages } from '../constants/appMessages';
+import ConfirmationDialog from './ConfirmationDialog';
 
 export default function AppLayout() {
   const { logout } = useAuth();
   const navigate = useNavigate();
+  const [logoutDialogOpen, setLogoutDialogOpen] = useState(false);
 
   const handleLogout = async () => {
     await logout();
+    setLogoutDialogOpen(false);
     navigate('/login', { replace: true });
   };
 
@@ -38,6 +42,15 @@ export default function AppLayout() {
           <Outlet />
         </Container>
       </Box>
+      <ConfirmationDialog
+        open={logoutDialogOpen}
+        title={appMessages.logoutTitle}
+        description={appMessages.logoutDescription}
+        confirmLabel={appMessages.confirmLogout}
+        cancelLabel={appMessages.cancel}
+        onConfirm={handleLogout}
+        onCancel={() => setLogoutDialogOpen(false)}
+      />
     </>
   );
 }

@@ -12,4 +12,8 @@ export const appMessages = {
   productsDescription: 'Gerencie o catálogo e acompanhe o estoque disponível.',
   open: 'Acessar',
   comingSoon: 'Em breve',
+  logoutTitle: 'Sair da aplicação?',
+  logoutDescription: 'Sua sessão será encerrada. Deseja realmente sair?',
+  confirmLogout: 'Sair',
+  cancel: 'Cancelar',
 };
